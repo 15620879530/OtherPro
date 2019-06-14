@@ -12,7 +12,7 @@ import javax.inject.Inject;
 
 public class Student {
 
-    private String mess="Student的实例是注解方式注入的";
+    private String mess="Student的实例是注解方式注入的!";
 
     @Inject
     public Student(){
